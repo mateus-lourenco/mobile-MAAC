@@ -9,8 +9,8 @@ class InformaPintura extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xDD00bed8),
-       body: Container(height: 1000,decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/fundoOf.jpg'), fit: BoxFit.cover),),child:Center(
+      backgroundColor: Colors.yellow[150],
+       body: Container(height: 1000,decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/background2.jpg'), fit: BoxFit.cover),),child:Center(
         child: Container(
           child: ImagemPintura(),
           height: 500,

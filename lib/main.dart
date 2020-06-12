@@ -50,7 +50,7 @@ Widget _introScreen() {
         ),
         navigateAfterSeconds: HomeScreen(),
         loaderColor: Colors.transparent,
-      ),Container(decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/fundoInit.jpg'), fit: BoxFit.cover)),
+      ),Container(decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/background1.jpg'), fit: BoxFit.cover)),
       child: Container(
         decoration: BoxDecoration(
           image: DecorationImage(

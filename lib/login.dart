@@ -20,7 +20,7 @@ class _HomeState extends State<ContaEntrada> {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-          body: Center(child:Container(height: 1000,decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/fundoOf.jpg'), fit: BoxFit.cover),),child:SingleChildScrollView(
+          body: Center(child:Container(height: 1000,decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/background2.jpg'), fit: BoxFit.cover),),child:SingleChildScrollView(
             padding: EdgeInsets.all(10.0),
             child: Form(
               key: _formKey,

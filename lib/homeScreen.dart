@@ -62,8 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0XFF2196F3),
-      body:Container(decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/fundoOf.jpg'), fit: BoxFit.cover)),child:Center(child: Container(child : Init(),height: 400,))));      
+      body:Container(decoration: new BoxDecoration(image: new DecorationImage(image: AssetImage('asserts/background2.jpg'), fit: BoxFit.cover)),child:Center(child: Container(child : Init(),height: 400,))));      
 
   }
 }

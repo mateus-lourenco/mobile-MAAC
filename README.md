@@ -1,17 +1,14 @@
 <h1> Museu Assis Chateaubriand (MAAC)</h1>
-<h2> Aplicção Mobile para a disciplina de Mobile na Unifacisa </h2>
+<h3> Aplicativo para a disciplina de Programação para dispositivos móveis na Unifacisa </h3>
 
-O Museu Assis Chateaubriand (MAAC) foi inaugurado no dia 5 junho de 2012. Com
+<p>O Museu Assis Chateaubriand (MAAC) foi inaugurado no dia 5 junho de 2012. Com
 instalações modernas, o museu, localizado no bairro do Catolé, em Campina Grande, abriu
 suas portas com uma solenidade prestigiada por autoridades, artistas e representantes da
-cultura de todo o Estado.
+cultura de todo o Estado.</p>
 
-<img src="https://s3-sa-east-1.amazonaws.com/imgs.guiadasartes/eve/587-museu-de-arte-assis-chateaubriand-/drTzpTUI.300x300.jpg" alt="MAAC em Campina Grande"> Figura 1: MAAC em Campina Grande </img>
+<img src="https://s3-sa-east-1.amazonaws.com/imgs.guiadasartes/eve/587-museu-de-arte-assis-chateaubriand-/drTzpTUI.300x300.jpg" alt="MAAC em Campina Grande" align="center"/>
 
-Nos últimos meses, o Museu Assis Chateaubriand (MAAC) passou a ser administrado pelo
-Centro Universitário UniFacisa.
-
-** Objetivo do Projeto
-O objetivo deste projeto da disciplina de Desenvolvimento Mobile é desenvolver uma
+<h3> Objetivo do Projeto </h3>
+<p>O objetivo deste projeto da disciplina de Desenvolvimento Mobile é desenvolver uma
 aplicação para dispositivos celulares usando conceitos adquiridos na disciplina e de Internet
-das Coisas (em Inglês, Internet of Things), usando Beacons.
+das Coisas (em Inglês, Internet of Things), usando Beacons.</p>
